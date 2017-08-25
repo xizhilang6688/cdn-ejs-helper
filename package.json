@@ -1,0 +1,28 @@
+{
+  "name": "cdn-ejs-helper",
+  "version": "0.0.1",
+  "description": "replace localurl  to cdnurl",
+  "main": "index.js",
+  "directories": {
+    "test": "replace localurl  to cdnurl in html for gulp autobuild"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xizhilang6688/cdn-ejs-helper.git"
+  },
+  "author": "gorden zhang",
+  "license": "TMT",
+  "bugs": {
+    "url": "https://github.com/xizhilang6688/cdn-ejs-helper/issues"
+  },
+  "homepage": "https://github.com/xizhilang6688/cdn-ejs-helper",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "lodash": "^3.5.0"
+  },
+  "_from": "cdn-ejs-helper@0.0.1",
+  "_resolved": "http://registry.npm.taobao.org/cdn-ejs-helper/download/cdn-ejs-helper-0.0.1.tgz"
+}
